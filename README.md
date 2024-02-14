@@ -1,1 +1,3 @@
-# HackerRank
+#Repository Purpose
+
+This repository is dedicated to solving coding challenges from HackerRank, aimed at enhancing coding skills and problem-solving abilities. The challenges cover a wide range of topics, including JS object literal manipulation, RestAPI Requests, and Middleware handling. By actively engaging with these challenges, the goal is to improve proficiency in coding, explore diverse problem-solving approaches, and deepen understanding of fundamental back-end development concepts. Feel free to explore the solutions and contribute your own insights to foster a collaborative learning environment.
